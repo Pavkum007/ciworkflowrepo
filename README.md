@@ -237,6 +237,8 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
+  
+[![Step 1, Add a test workflow](https://github.com/Pavkum007/ciworkflowrepo/actions/workflows/1-add-a-test-workflow.yml/badge.svg)](https://github.com/Pavkum007/ciworkflowrepo/actions/workflows/1-add-a-test-workflow.yml)
 
 <img src=https://octodex.github.com/images/Fintechtocat.png alt=celebrate width=300 align=right>
 
